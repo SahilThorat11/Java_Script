@@ -17,7 +17,7 @@ function FindLargest(iNo1, iNo2, iNo3)
 
 function main()
 {
-    let iValue1 = 1, iValue2 = 21, iValue3 = 1;
+    let iValue1 = 1, iValue2 = 21, iValue3 = 10;
 
     FindLargest(iValue1, iValue2, iValue3);
 }
