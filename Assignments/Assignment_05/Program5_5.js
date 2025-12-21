@@ -1,17 +1,17 @@
 
 function FindLargest(iNo1, iNo2, iNo3)
 {
-    if (iNo3 > iNo2) 
+    if (iNo1 >= iNo2 && iNo1 >= iNo3)
     {
-        console.log(`${iNo3} is largest number.`);
+        console.log(`${iNo1} is the largest number.`);
     }
-    else if (iNo2 > iNo1) 
+    else if (iNo2 >= iNo1 && iNo2 >= iNo3)
     {
-        console.log(`${iNo2} is largest number.`);
+        console.log(`${iNo2} is the largest number.`);
     }
     else
     {
-        console.log(`${iNo1} is largest number.`);
+        console.log(`${iNo3} is the largest number.`);
     }
 }
 
