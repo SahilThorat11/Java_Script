@@ -13,7 +13,7 @@ function FindMax(iNo1, iNo2)
 
 function main()
 {
-    let iValue1 = 11, iValue2 = 13, iRet = 0;
+    let iValue1 = 15, iValue2 = 13, iRet = 0;
 
     iRet = FindMax(iValue1, iValue2);
 
