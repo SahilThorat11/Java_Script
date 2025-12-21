@@ -13,7 +13,7 @@ function CheckEvenOdd(iNo)
 
 function main()
 {
-    let iValue = 11, iRet = false;
+    let iValue = 12, iRet = false;
 
     iRet = CheckEvenOdd(iValue);
 
