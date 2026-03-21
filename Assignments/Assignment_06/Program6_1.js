@@ -49,7 +49,7 @@ main();
 //
 //  Testcases succesfully handle by the application
 //
-//  Input  : Virendra Sunil Suryawanshi
-//  Output : Your name is : Virendra Sunil Suryawanshi
+//  Input : Sahil Rajaram Thorat
+//  Output : Your name is : Sahil Rajaram Thorat
 //
 ////////////////////////////////////////////////////////////////////////////////
